@@ -16,6 +16,7 @@ public class Main {
         double lastresult = ((double)Math.round(result * 10))/10;
         
         System.out.println(lastresult);
+        System.out.println(lastresult);
     }
 }
 //体重÷(身長m^2)
